@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pabasara</h1>
 <h3 align="center">A Full-stack Web Developer & ML Enthusiast</h3>
 
-- 📝 I write articles on [pabasararathnayake.medium.com/](pabasararathnayake.medium.com/)
-
 - 💬 Ask me about **Java, ReactJS**
 
 - 📫 How to reach me **rmdpabasara@gmail.com**
